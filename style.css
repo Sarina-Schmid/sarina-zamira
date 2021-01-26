@@ -1,0 +1,78 @@
+h1, h3, p, span, button {
+    font-family: Bahnschrift;
+    font-size: 30px;
+}
+
+h1 {
+font-size: 60px;}
+body {
+    background-color: deeppink;
+    color: white;
+    padding: 60px;
+    text-align: center;
+}
+input {
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+    color: #3c3c3b;
+    padding: 30px 36px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 20px;
+}
+.addtodo {
+    background-color: pink;
+    border: none;
+    border-radius: 20px;
+    color: #3c3c3b;
+    padding: 30px 36px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    cursor: pointer;
+    transition: 0.3s;
+    opacity: 0.9 ;
+    overflow: hidden;
+}
+
+.addtodo:hover {opacity: 2}
+
+
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #000000;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    color: white;
+    font-family: Bahnschrift;
+    text-decoration: none;
+    text-align: left;
+    list-style: none;
+}
+li {
+    list-style: none;
+}
+
+.card-header {
+ font-size: 20px;
+}
+
+.untertitel {
+    font-size: 40px;
+}
+
+#link {
+    text-decoration: none;
+    color: white;
+}

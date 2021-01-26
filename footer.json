@@ -1,0 +1,17 @@
+{
+  "person": [
+    {
+      "firstName": "Sarina",
+      "lastName": "Schmid",
+      "job": "Mediamatikerin",
+      "roll": "16"
+    },
+    {
+      "firstName": "Zamira",
+      "lastName": "Timmermans",
+      "job": "Mediamatikerin",
+      "roll": "30"
+    }
+
+  ]
+}
